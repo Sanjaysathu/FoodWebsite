@@ -10,7 +10,7 @@ function App() {
     <BrowserRouter basename={process.env.PUBLIC_URL}>
     <div>
       <Switch>
-        <Route exact path="/FoodWebsite">
+        <Route exact path="/">
           <div>
             <Navbarmenu />
             <Content />
