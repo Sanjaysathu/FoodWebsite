@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c9f5c85d04bfbdbd5ef332c0c9a571e",
+    "revision": "dccf8f214fb6e7dd0382ed48aa8d73d6",
     "url": "/FoodWebsite/index.html"
   },
   {
-    "revision": "349b533bb013d4b5a652",
+    "revision": "dd40a55465a754fc233c",
     "url": "/FoodWebsite/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "56b672a959f93ed4ab75",
+    "revision": "512091e3222b6d7afb0a",
     "url": "/FoodWebsite/static/css/main.5daa4db8.chunk.css"
   },
   {
-    "revision": "349b533bb013d4b5a652",
-    "url": "/FoodWebsite/static/js/2.bf181d70.chunk.js"
+    "revision": "dd40a55465a754fc233c",
+    "url": "/FoodWebsite/static/js/2.2e7714b3.chunk.js"
   },
   {
     "revision": "86afaa925e0f432774bf95b19b6933fb",
-    "url": "/FoodWebsite/static/js/2.bf181d70.chunk.js.LICENSE"
+    "url": "/FoodWebsite/static/js/2.2e7714b3.chunk.js.LICENSE"
   },
   {
-    "revision": "56b672a959f93ed4ab75",
-    "url": "/FoodWebsite/static/js/main.743ff00e.chunk.js"
+    "revision": "512091e3222b6d7afb0a",
+    "url": "/FoodWebsite/static/js/main.f5140eab.chunk.js"
   },
   {
     "revision": "e6eeacb493aeb119c376",
