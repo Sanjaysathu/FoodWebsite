@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/FoodWebsite/static/css/main.5daa4db8.chunk.css",
+    "main.js": "/FoodWebsite/static/js/main.743ff00e.chunk.js",
+    "main.js.map": "/FoodWebsite/static/js/main.743ff00e.chunk.js.map",
+    "runtime-main.js": "/FoodWebsite/static/js/runtime-main.2467d522.js",
+    "runtime-main.js.map": "/FoodWebsite/static/js/runtime-main.2467d522.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/FoodWebsite/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.bf181d70.chunk.js": "/FoodWebsite/static/js/2.bf181d70.chunk.js",
+    "static/js/2.bf181d70.chunk.js.map": "/FoodWebsite/static/js/2.bf181d70.chunk.js.map",
+    "index.html": "/FoodWebsite/index.html",
+    "precache-manifest.a81d00ba93d1e6d97679010917e47ee3.js": "/FoodWebsite/precache-manifest.a81d00ba93d1e6d97679010917e47ee3.js",
+    "service-worker.js": "/FoodWebsite/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/FoodWebsite/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.5daa4db8.chunk.css.map": "/FoodWebsite/static/css/main.5daa4db8.chunk.css.map",
+    "static/js/2.bf181d70.chunk.js.LICENSE": "/FoodWebsite/static/js/2.bf181d70.chunk.js.LICENSE",
+    "static/media/index.css": "/FoodWebsite/static/media/Wall.616ab9ff.jpg",
+    "static/media/burger.png": "/FoodWebsite/static/media/burger.671ca4c2.png",
+    "static/media/fries.jpg": "/FoodWebsite/static/media/fries.f1dc6297.jpg",
+    "static/media/pasta.jpg": "/FoodWebsite/static/media/pasta.dd8c9029.jpg",
+    "static/media/pizza.jpg": "/FoodWebsite/static/media/pizza.bef46692.jpg",
+    "static/media/sandwich.jpg": "/FoodWebsite/static/media/sandwich.89db6ca2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2467d522.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.bf181d70.chunk.js",
+    "static/css/main.5daa4db8.chunk.css",
+    "static/js/main.743ff00e.chunk.js"
+  ]
+}
