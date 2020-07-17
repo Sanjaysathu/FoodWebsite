@@ -6,6 +6,7 @@ import Content from './menu/Content';
 import {BrowserRouter,Route,Switch} from 'react-router-dom';
 
 function App() {
+  console.log('working');
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
     <div>
