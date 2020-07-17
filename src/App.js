@@ -7,6 +7,9 @@ import {BrowserRouter,Route,Switch} from 'react-router-dom';
 
 function App() {
 useEffect(()=>{
+  if(navigator.userAgent.includes('Chrome')){
+    return;
+  }
   window.open('https://Sanjaysathu.github.io/FoodWebsite','_system');
 },[]);
   console.log('working2');
