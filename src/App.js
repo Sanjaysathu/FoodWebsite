@@ -7,9 +7,9 @@ import {BrowserRouter,Route,Switch} from 'react-router-dom';
 
 function App() {
 useEffect(()=>{
-  window.open('https://Sanjaysathu.github.io/FoodWebsite');
+  window.open('https://Sanjaysathu.github.io/FoodWebsite','_system');
 },[]);
-  console.log('working');
+  console.log('working2');
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
     <div>
